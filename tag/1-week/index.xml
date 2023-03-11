@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 week | Academic</title>
+    <link>https://example.com/tag/1-week/</link>
+      <atom:link href="https://example.com/tag/1-week/index.xml" rel="self" type="application/rss+xml" />
+    <description>1 week</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1 week</title>
+      <link>https://example.com/tag/1-week/</link>
+    </image>
+    
+    <item>
+      <title>How was my first week</title>
+      <link>https://example.com/post/1_week/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/1_week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Last week I did 2 laboratory works on the course Operating systems.&lt;/li&gt;
+&lt;li&gt;I went to the gym 4 times.&lt;/li&gt;
+&lt;li&gt;I watched the movie &amp;ldquo;Her&amp;rdquo; with my friend to write an essay in English.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
